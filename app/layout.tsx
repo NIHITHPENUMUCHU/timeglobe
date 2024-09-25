@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'TimeGlobe Advanced',
-  description: 'An advanced clone of timeglobe.live with easter eggs and challenges',
+  description: 'An advanced globe of time with easter eggs and challenges',
 }
 
 export default function RootLayout({
